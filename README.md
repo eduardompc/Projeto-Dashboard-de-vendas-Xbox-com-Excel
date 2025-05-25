@@ -1,22 +1,57 @@
 # Projeto Dashboard de vendas Xbox com Excel
 Desafio de projeto Curso Excel
-Resumo Detalhado do Curso “Criando um Dashboard de Vendas do Xbox com Excel”
-Método ABCDE
-Este método é uma estrutura ensinada comentada pelo instrutor no curso para organizar e construir um dashboard de forma eficiente e lógica:
-•	A (ASSETS): Refere-se aos recursos visuais utilizados, como imagens, ícones, paletas de cores personalizadas e elementos de design que trazem identidade e clareza ao dashboard.
-•	B (BASES): Representa a organização e preparação da base de dados. O curso ensina como importar dados de diferentes fontes, limpá-los e organizá-los para facilitar a análise e a visualização.
-•	C (CÁLCULOS): Abrange a criação de métricas, indicadores-chave de desempenho (KPIs) e cálculos avançados para fornecer insights precisos e úteis.
-•	D (DASHBOARD): Refere-se à criação do painel interativo. O curso guia na disposição dos elementos visuais, tornando o dashboard intuitivo e visualmente atraente.
-•	E (EXTRAS): Inclui recursos adicionais, como dicas para animações, interatividade avançada ou funcionalidades extras que enriquecem o painel final.
-Transformação de Dados em Informações
-O curso enfatiza a importância de compreender a diferença entre dados e informações. Dados são números ou fatos brutos, enquanto informações são os significados derivados desses dados. A transformação é feita através de cálculos, análises e visualizações bem estruturadas.
-Importância do Data View
-Uma parte crucial do aprendizado envolve o uso do “Data View” no Excel. Este conceito é explorado para organizar as tabelas, relacionar diferentes conjuntos de dados e garantir que as análises sejam precisas e otimizadas.
-Criação de Gráficos e Filtros Visuais
-O curso ensina a modelar gráficos dinâmicos que respondem a mudanças nos dados e filtros interativos que permitem aos usuários explorar diferentes perspectivas dos dados. A estilização também é destacada para garantir que os gráficos não só sejam precisos, mas também visualmente atraentes.
-Big Numbers e Info Context
-Esta seção ensina a trabalhar com números destacados no dashboard, como vendas totais ou lucros acumulados, e como apresentar esses números com contexto adicional para facilitar a compreensão.
-Toques Finais
-O refinamento do dashboard é abordado nesta parte, incluindo a padronização de cores, alinhamentos e pequenos detalhes que tornam o painel mais profissional e acessível. O curso orienta sobre como adicionar branding ou elementos personalizados para que o resultado final se destaque.
-Entendimento Geral
-Por fim, o curso reforça a importância de criar algo compreensível e acessível, tanto para especialistas quanto para iniciantes. A combinação de técnica, design e clareza é essencial para um dashboard eficaz.
+# Projeto: Dashboard de Vendas Xbox com Excel
+
+Desafio de Projeto do Curso de Excel
+
+---
+
+## Resumo do Curso
+
+O curso “Criando um Dashboard de Vendas do Xbox com Excel” ensina a construir dashboards profissionais utilizando o método **ABCDE**.
+
+---
+
+## Método ABCDE
+
+- **A — ASSETS:**  
+  Recursos visuais como imagens, ícones, paletas de cores e elementos de design que trazem identidade e clareza ao dashboard.
+
+- **B — BASES:**  
+  Organização e preparação da base de dados. Inclui importação, limpeza e estruturação dos dados para facilitar a análise.
+
+- **C — CÁLCULOS:**  
+  Criação de métricas, KPIs e cálculos avançados para fornecer insights precisos e úteis.
+
+- **D — DASHBOARD:**  
+  Montagem do painel interativo, com disposição lógica e visualmente atraente dos elementos.
+
+- **E — EXTRAS:**  
+  Recursos adicionais como animações, interatividade avançada e funcionalidades extras para enriquecer o painel.
+
+---
+
+## Principais Conceitos Abordados
+
+- **Transformação de Dados em Informações:**  
+  Compreensão da diferença entre dados (números brutos) e informações (significados derivados dos dados), utilizando cálculos, análises e visualizações.
+
+- **Importância do Data View:**  
+  Organização das tabelas, relacionamento entre conjuntos de dados e otimização das análises no Excel.
+
+- **Criação de Gráficos e Filtros Visuais:**  
+  Modelagem de gráficos dinâmicos e filtros interativos para explorar diferentes perspectivas dos dados, com foco em estilização e clareza visual.
+
+- **Big Numbers e Info Context:**  
+  Destaque para números importantes (ex: vendas totais, lucros) e apresentação contextualizada para facilitar a compreensão.
+
+- **Toques Finais:**  
+  Refinamento do dashboard, padronização de cores, alinhamentos, branding e elementos personalizados para um resultado profissional.
+
+---
+
+## Entendimento Geral
+
+O curso reforça a importância de criar dashboards compreensíveis e acessíveis, combinando técnica, design e clareza para atender tanto especialistas quanto iniciantes.
+
+---
